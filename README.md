@@ -19,3 +19,5 @@ Features Read File: Displays the content of a specified file to the console. Wri
 
 # OUTPUT:
 ![Filehandling](https://github.com/user-attachments/assets/53964fcd-b602-4302-a3fa-5eb4644b10b3)
+![Filehandling1](https://github.com/user-attachments/assets/58a99bdf-e134-4867-a0af-9a6e9db555b5)
+![Filehandling2](https://github.com/user-attachments/assets/4dee07aa-75bd-4e6b-b3c4-695ca78c1069)
